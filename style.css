@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+    background-color: crimson;
+}
+#ori{
+    background-color: rgb(195, 118, 134); 
+}
+#crane{
+    background-color: rgb(219, 72, 102); 
+}
+#tulip{
+    background-color: rgb(219, 72, 102); 
+}
+#envelope{
+    background-color: rgb(219, 72, 102); 
+}
+#butterfly{
+    background-color: rgb(219, 72, 102); 
+}
+#dino{
+    background-color: rgb(219, 72, 102);  
+}
+#box{
+    background-color: rgb(219, 72, 102);  
+}
+h1{
+    color: rgb(255, 255, 255);
+    font-family: cursive;
+}
+h2{
+    color: rgb(255, 255, 255);
+    font-family: cursive;
+}
+h4{
+    color: rgb(255, 255, 255);
+    font-family: cursive;
+}
+a{
+    color: rgb(255, 255, 255);
+    font-family: cursive;
+}
